@@ -1,0 +1,24 @@
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MainForm.resources
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MainForm.resources
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Input.resources
+D:\Shool Stuff\Fall 2020\COP 4226\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form4.resources
