@@ -1,0 +1,24 @@
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\bin\Debug\PA7 Draft.exe.config
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\bin\Debug\PA7 Draft.exe
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\bin\Debug\PA7 Draft.pdb
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.csprojAssemblyReference.cache
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\obj\Debug\PA7_Draft.MainForm.resources
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\obj\Debug\PA7_Draft.Properties.Resources.resources
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.csproj.GenerateResource.cache
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.csproj.CoreCompileInputs.cache
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.exe
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.pdb
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\bin\Debug\save button.png
+C:\Users\drbor\source\repos\PA7 Draft\PA7 Draft\bin\Debug\sort icon.ico
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\bin\Debug\save button.png
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\bin\Debug\sort icon.ico
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\bin\Debug\PA7 Draft.exe.config
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\bin\Debug\PA7 Draft.exe
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\bin\Debug\PA7 Draft.pdb
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.csprojAssemblyReference.cache
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\obj\Debug\PA7_Draft.MainForm.resources
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\obj\Debug\PA7_Draft.Properties.Resources.resources
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.csproj.GenerateResource.cache
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.csproj.CoreCompileInputs.cache
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.exe
+D:\Shool Stuff\Fall 2020\COP 4226\PA7 Draft\PA7 Draft\obj\Debug\PA7 Draft.pdb
