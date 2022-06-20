@@ -1,0 +1,1 @@
+Usage: python3 search.py -method NAMEOFMETHOD NAMEOFMAZE
